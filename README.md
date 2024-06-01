@@ -2,7 +2,7 @@ Welcome to my portfolio website!
 
 I am Bill Valentinov, a student at the University of Lampung. I am a web enthusiast who truly enjoys everything related to web development and Node.js.
 
-Here is the link to my [portfolio website](https://valentinov8060.github.io/).
+Here is the link to my [portfolio website](https://valentinov8060.github.io/Bill-Valentinov_Portofolio/).
 
 ## Skills
 
