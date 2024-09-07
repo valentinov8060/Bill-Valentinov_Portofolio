@@ -8,7 +8,7 @@ Here is the link to my [portfolio website](https://valentinov8060.github.io/Bill
 
 Here are some skills I currently learning:
 
-Node.js, Express, MongoDB, MySQL, React Native and A-Frame
+HTML, CSS, JavaScript, TypeScript, Bootstrap, Node.js, Express, MySQL, MongoDB, React, React Native, A-Frame, Laravel, Next.js, Jest, Supertest, Git
 
 ## How to Reach Me
 
